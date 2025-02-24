@@ -6,8 +6,6 @@ icon: paper-plane
 
 The Bank section of Alberto Wallet is your centralized hub for managing your tokens and transactions. Here, you can send tokens, receive tokens, review your account activity, and even perform cross-chain transfers to move assets between different blockchains.
 
-
-
 ### Sending Tokens
 
 1. **Navigate to the Bank Section:**\
