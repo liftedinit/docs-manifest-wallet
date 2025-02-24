@@ -4,26 +4,21 @@ Welcome to the Alberto Wallet User Guide—a beginner-friendly roadmap to managi
 
 What is Alberto Wallet? Alberto Wallet is a secure, accessible, and feature-rich decentralized wallet available on both desktop and mobile. It goes beyond simple asset management, offering a suite of tools that empower you to engage with a decentralized physical infrastructure network. By seamlessly combining traditional banking functions with cutting-edge Web3 capabilities, Alberto Wallet delivers a robust and user-friendly experience for everyone.
 
-Key Features Covered in This Guide:
+**Key Features Covered in This Guide**
 
-```
-Bank:
-    Send and receive tokens with ease
-    View your complete transaction history
-
-Group:
-    Create and manage groups
-    Create proposals, vote on them, and execute decisions
-    Access detailed group information
-
-Factory:
-    Create new tokens effortlessly
-    Mint or burn tokens as needed
-    Transfer token ownership and view token details
-
-Address Book:
-    Manage your contacts for streamlined transactions
-```
+* **Bank**:
+  * Send and receive tokens with ease
+  * View your complete transaction history
+* **Group:**
+  * Create and manage groups
+  * Create proposals, vote on them, and execute decisions
+  * Access detailed group information
+* **Factory:**
+  * Create new tokens effortlessly
+  * Mint or burn tokens as needed
+  * Transfer token ownership and view token details
+* **Contact:**
+  * Manage your contacts for streamlined transactions
 
 Multiple Connection Options: Whether you’re a crypto enthusiast or a traditional Web2 user, Alberto Wallet supports a range of connection methods. Choose from advanced crypto options like Leap, Keplr, Ledger, and MetaMask, or opt for user-friendly connections (Google, X, Meta, GitHub, Reddit, etc.) for a seamless login experience.
 
