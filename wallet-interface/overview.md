@@ -1,3 +1,7 @@
+---
+icon: binoculars
+---
+
 # Overview
 
 The Alberto Wallet interface is designed to be simple, intuitive, and accessible—making it easy for beginners to navigate and manage their assets. This section gives you an overview of the key navigation elements that help you access Alberto Wallet’s features.
