@@ -1,3 +1,7 @@
+---
+icon: plug
+---
+
 # Connecting to Your Wallet
 
 Alberto Wallet offers a variety of connection methods designed to suit both crypto experts and users more familiar with traditional Web2 authentication. This page will guide you through the available options and help you choose the one that best fits your needs.

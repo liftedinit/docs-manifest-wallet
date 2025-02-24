@@ -1,3 +1,7 @@
+---
+icon: user-large
+---
+
 # Account Creation & Initial Setup
 
 Getting started with Alberto Wallet is as simple as creating your account and following a few guided steps to secure your wallet. This page is designed for new users to set up their account securely, while also providing a refresher for returning users.

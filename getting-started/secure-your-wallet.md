@@ -1,3 +1,7 @@
+---
+icon: lock
+---
+
 # Secure your Wallet
 
 Security is paramount when managing your digital assets, and Alberto Wallet is designed to provide robust protection for all users. In this section, we outline best practices for securing your wallet—whether you’re leveraging advanced crypto wallet features or using the convenience of social logins powered by Web3Auth with multi-factor authentication (MFA).

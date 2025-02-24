@@ -1,3 +1,7 @@
+---
+icon: wallet
+---
+
 # Accessing the Wallet
 
 Accessing Alberto Wallet is simple whether you’re using a desktop computer or a mobile device. Follow the instructions below to get started:
