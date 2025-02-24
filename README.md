@@ -7,7 +7,7 @@ What is Alberto Wallet? Alberto Wallet is a secure, accessible, and feature-rich
 **Key Features Covered in This Guide**
 
 * **Bank**:
-  * Send and receive tokens with ease
+  * Send and receive tokens with ease, even to/from other chains
   * View your complete transaction history
 * **Group:**
   * Create and manage groups
