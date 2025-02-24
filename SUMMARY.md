@@ -12,3 +12,4 @@
 ## Wallet Interface
 
 * [Overview](wallet-interface/overview.md)
+* [Using the Bank](wallet-interface/using-the-bank.md)
