@@ -13,3 +13,4 @@
 
 * [Overview](wallet-interface/overview.md)
 * [Using the Bank](wallet-interface/using-the-bank.md)
+* [Using Groups](wallet-interface/using-groups.md)
