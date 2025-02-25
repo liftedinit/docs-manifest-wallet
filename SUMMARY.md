@@ -16,3 +16,7 @@
 * [Using the Groups](wallet-interface/using-the-groups.md)
 * [Using the Token Factory](wallet-interface/using-the-token-factory.md)
 * [Using the Contacts](wallet-interface/using-the-contacts.md)
+
+***
+
+* [Security and Best Practices](security-and-best-practices.md)
