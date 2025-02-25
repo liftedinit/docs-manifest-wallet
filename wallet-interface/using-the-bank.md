@@ -1,5 +1,5 @@
 ---
-icon: paper-plane
+icon: coins
 ---
 
 # Using the Bank
