@@ -30,3 +30,8 @@ Accessing Alberto Wallet is simple whether you’re using a desktop computer or 
     The mobile version of Alberto Wallet offers the same full functionality as the desktop version in a responsive, user-friendly layout.
 3. **Enjoy a Seamless Experience:**\
    The mobile website is designed to be intuitive—simply tap through the menus to explore features such as sending/receiving tokens, managing groups, creating tokens, and more.
+
+### Testnet vs. Mainnet
+
+<mark style="color:purple;">**Important Note:**</mark>\
+Alberto Wallet operates on both testnet and mainnet environments. The **testnet** is a simulated environment where you can practice transactions and explore features without using real funds. It’s ideal for familiarizing yourself with the wallet and testing new functionalities. In contrast, the **mainnet** is the live environment where actual digital assets are managed. Ensure that you are aware of which network you are connected to before performing any transactions, as operations on the mainnet involve real tokens and irreversible actions.
