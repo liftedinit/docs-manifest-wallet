@@ -20,6 +20,9 @@
 ## Resources
 
 * [Security and Best Practices](resources/security-and-best-practices.md)
+
+## Socials
+
 * [Discord](https://discord.gg/manifestai)
 * [GitHub ](https://github.com/liftedinit/)
 * [X](https://x.com/ManifestAIs)
