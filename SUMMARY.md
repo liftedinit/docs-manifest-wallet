@@ -20,3 +20,8 @@
 ## Resources
 
 * [Security and Best Practices](resources/security-and-best-practices.md)
+* [Discord](https://discord.gg/manifestai)
+* [GitHub ](https://github.com/liftedinit/)
+* [X](https://x.com/ManifestAIs)
+* [Medium](https://medium.com/@TheLiftedInitiative)
+* [LinkedIn ](https://www.linkedin.com/company/liftedinit/)
