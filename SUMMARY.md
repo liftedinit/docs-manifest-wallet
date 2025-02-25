@@ -17,6 +17,6 @@
 * [Using the Token Factory](wallet-interface/using-the-token-factory.md)
 * [Using the Contacts](wallet-interface/using-the-contacts.md)
 
-***
+## Resources
 
-* [Security and Best Practices](security-and-best-practices.md)
+* [Security and Best Practices](resources/security-and-best-practices.md)
