@@ -13,4 +13,5 @@
 
 * [Overview](wallet-interface/overview.md)
 * [Using the Bank](wallet-interface/using-the-bank.md)
-* [Using Groups](wallet-interface/using-groups.md)
+* [Using the Groups](wallet-interface/using-the-groups.md)
+* [Using the Token Factory](wallet-interface/using-the-token-factory.md)

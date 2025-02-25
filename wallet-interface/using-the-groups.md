@@ -2,7 +2,7 @@
 icon: users
 ---
 
-# Using Groups
+# Using the Groups
 
 The Groups section in Alberto Wallet is designed to foster collaboration and decentralized decision-making within your community. Within a group, you can propose and execute various actions—whether it's updating group details, adding or removing members, transferring assets, or creating and managing tokens. These actions, treated as proposals, empower every member to contribute to the group's direction.
 
@@ -26,7 +26,7 @@ In Alberto Wallet, proposals are initiated by performing specific actions within
 * **Updating Group Details:** Changing the group title, description, or other settings.
 * **Managing Membership:** Adding new members or removing existing ones.
 * **Transferring Assets:** Initiating asset transfers among group members.
-* **Token Operations:** Creating new tokens, minting or burning tokens, and transferring token ownership.
+* **Token Operations:** Creating new tokens, minting or burning tokens, transferring token ownership, and updating token metadata.
 
 When you perform any of these actions, a proposal is generated. The proposal details are automatically recorded and made available for all group members to review.
 
