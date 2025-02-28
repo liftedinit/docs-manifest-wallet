@@ -20,6 +20,7 @@
 ## Resources
 
 * [Security and Best Practices](resources/security-and-best-practices.md)
+* [FAQ](resources/faq.md)
 
 ## Socials
 
