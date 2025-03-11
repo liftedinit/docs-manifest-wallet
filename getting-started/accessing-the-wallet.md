@@ -12,8 +12,8 @@ Accessing Alberto Wallet is simple whether you’re using a desktop computer or 
    Launch your preferred web browser (such as Chrome, Firefox, Brave, or Edge).
 2. **Navigate to the Wallet URL:**\
    Enter the following URL in your browser's address bar:
+   * Mainnet wallet: [https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
    * Testnet wallet:  [https://wallet.liftedinit.tech/](https://wallet.liftedinit.tech/)
-   * Mainnet wallet: TBD
 3. **Explore the Interface:**\
    Once the page loads, you’ll see the Alberto Wallet dashboard. The interface is optimized for larger screens, ensuring you can easily access all the wallet’s features.
 
@@ -24,8 +24,8 @@ Accessing Alberto Wallet is simple whether you’re using a desktop computer or 
 2.  **Visit the Wallet URL:**\
     Enter the following URL in your mobile browser:
 
+    * Mainnet wallet: [https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
     * Testnet wallet:  [https://wallet.liftedinit.tech/](https://wallet.liftedinit.tech/)
-    * Mainnet wallet: TBD
 
     The mobile version of Alberto Wallet offers the same full functionality as the desktop version in a responsive, user-friendly layout.
 3. **Enjoy a Seamless Experience:**\
