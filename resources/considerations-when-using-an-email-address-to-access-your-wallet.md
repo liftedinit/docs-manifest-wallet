@@ -1,5 +1,6 @@
 ---
 description: Security warnings
+icon: at
 ---
 
 # Considerations when using an email address to access your wallet
@@ -18,12 +19,8 @@ This identifier acts as the foundation for generating the user’s private key a
 
 If a user loses access to their original email account and then later recreates an account using the same email address, the email provider will issue a different internal identifier for this new account. Even though the email string looks identical, Web3Auth receives a new identity fingerprint from the provider and therefore generates a completely different cryptographic key and wallet address.
 
-* Web3Auth ties wallet generation to the verified identity behind an email, not the email string itself.\
-  \
-
-* A recreated email account results in a different identity being presented to Web3Auth.\
-  \
-
+* Web3Auth ties wallet generation to the verified identity behind an email, not the email string itself.
+* A recreated email account results in a different identity being presented to Web3Auth.
 * This leads to the creation of a new wallet address, unrelated to the original.\
 
 
