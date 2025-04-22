@@ -35,4 +35,3 @@ Keeping your digital assets safe is at the heart of Alberto Wallet. This section
 * **Be Wary of Phishing:**\
   Only access Alberto Wallet through official URLs and be cautious of unsolicited emails or messages asking for your credentials.
 
-By following these best practices, you’ll ensure that your Alberto Wallet remains secure and that you can manage your digital assets with confidence.

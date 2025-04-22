@@ -20,6 +20,7 @@
 ## Resources
 
 * [Security and Best Practices](resources/security-and-best-practices.md)
+* [Considerations when using an email address to access your wallet](resources/considerations-when-using-an-email-address-to-access-your-wallet.md)
 * [Known Issues](resources/known-issues.md)
 * [FAQ](resources/faq.md)
 
