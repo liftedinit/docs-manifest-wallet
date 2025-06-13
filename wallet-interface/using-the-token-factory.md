@@ -9,9 +9,9 @@ The Factory section of Alberto Wallet empowers you to create and manage your own
 ### Creating New Tokens
 
 1. **Initiate Token Creation:**\
-   From the main navigation, select **Factory** and click the **Create New Token** button. You will first be prompted to enter the **Token Denom**—the denomination name for your new token.
+   From the main navigation, select **Factory** and click the **Create New Token** button.&#x20;
 2. **Enter Token Metadata:**\
-   After entering the Token Denom, click **Next: Token Metadata**. On this screen, provide the following details:
+   Provide the following details:
    * **Token Name:** Enter a unique name for your token.
    * **Ticker:** Provide an abbreviated symbol for your token.
    * **Logo URL (optional):** Enter a URL linking to your token’s logo, if available.
