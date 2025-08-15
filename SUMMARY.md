@@ -27,7 +27,7 @@
 ## Socials
 
 * [Discord](https://discord.gg/manifestai)
-* [GitHub ](https://github.com/liftedinit/)
+* [GitHub ](https://github.com/manifest-network/)
 * [X](https://x.com/ManifestAIs)
-* [Medium](https://medium.com/@TheLiftedInitiative)
-* [LinkedIn ](https://www.linkedin.com/company/liftedinit/)
+* [Medium](https://medium.com/@TheManifestNetwork)
+* [LinkedIn ](https://www.linkedin.com/company/the-manifest-network/)
